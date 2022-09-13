@@ -1,0 +1,5 @@
+artist,song,duration_ms,explicit,year,popularity,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,genre;
+"blink-182,All The Small Things,167066,False,1999,79,0.434,0.897,0,-4.918,1,0.0488,0.0103,0.0,0.612,0.684,148.726,""rock, pop""";
+ Britney Spears,Oops!...I Did It Again,211160,False,2000,77,0.751,0.834,1,-5.444,0,0.0437,0.3,1.77e-05,0.355,0.894,95.053,pop;
+"Faith Hill,Breathe,250546,False,1999,66,0.529,0.496,7,-9.007,1,0.029,0.173,0.0,0.251,0.278,136.859,""pop, country""";
+"Bon Jovi,It's My Life,224493,False,2000,78,0.551,0.913,0,-4.063,0,0.0466,0.0263,1.35e-05,0.347,0.544,119.992,""rock, metal""";
