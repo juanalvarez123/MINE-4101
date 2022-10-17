@@ -1,6 +1,6 @@
-# MINE-4101
+# MINE-4101: Proyecto final
 
-Repositorio curso de Ciencia de Datos MINE-4101 - Proyecto Final
+Repositorio del curso de Ciencia de Datos Aplicada MINE-4101 - Proyecto final.
 
 ## Integrantes
 
