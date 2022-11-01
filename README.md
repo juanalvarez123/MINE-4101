@@ -19,7 +19,7 @@ Repositorio del curso de Ciencia de Datos Aplicada MINE-4101 - Proyecto final.
 **Entrega No. 2:**
   A continuación se detalla cada uno de los modelos construidos para la entrega:
 
-  * Documento: [Entrega No. 2](https://github.com/juanalvarez123/MINE-4101-proyecto-final/blob/main/docs/) 
+  *Documento: [Entrega No. 2](https://github.com/juanalvarez123/MINE-4101-proyecto-final/blob/main/docs/) 
 
   Modelos:
 
