@@ -25,13 +25,11 @@ Repositorio del curso de Ciencia de Datos Aplicada MINE-4101 - Proyecto final.
 
 1. Modelo # 1
       - [Código fuente del notebook](https://github.com/juanalvarez123/MINE-4101-proyecto-final/blob/main/Segunda_Entrega/MODELO_1.ipynb)
-      - Ver en Google Colab: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/juanalvarez123/MINE-4101-proyecto-final/blob/main/main/Segunda_Entrega/MODELO_1.ipynb)
-
+      - Ver en Google Colab: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/juanalvarez123/MINE-4101-proyecto-final/blob/main/Segunda_Entrega/MODELO_1.ipynb)
 2.  Modelo # 2
       - [Código fuente del notebook](https://github.com/juanalvarez123/MINE-4101-proyecto-final/blob/main/Segunda_Entrega/MODELO_2.ipynb)
-      - Ver en Google Colab: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/juanalvarez123/MINE-4101-proyecto-final/blob/main/main/Segunda_Entrega/MODELO_2.ipynb)
-
+      - Ver en Google Colab: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/juanalvarez123/MINE-4101-proyecto-final/blob/main/Segunda_Entrega/MODELO_2.ipynb)
 3. Modelo # 3 (TODO RAFA)
 
       - [Código fuente del notebook](https://github.com/juanalvarez123/MINE-4101-proyecto-final/blob/main/Segunda_Entrega/MODELO_3.ipynb)
-      - Ver en Google Colab: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/juanalvarez123/MINE-4101-proyecto-final/blob/main/main/Segunda_Entrega/MODELO_3.ipynb)
+      - Ver en Google Colab: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/juanalvarez123/MINE-4101-proyecto-final/blob/main/Segunda_Entrega/MODELO_3.ipynb)
