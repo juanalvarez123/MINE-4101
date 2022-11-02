@@ -16,12 +16,9 @@ Repositorio del curso de Ciencia de Datos Aplicada MINE-4101 - Proyecto final.
   * Ver en Google Colab: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/juanalvarez123/MINE-4101-proyecto-final/blob/main/Proyecto_Entrega_1.ipynb)
 
 **Entrega No. 2:**
-
- A continuación se detalla cada uno de los modelos construidos para la entrega:
-
-  Documento: [Entrega No. 2](https://github.com/juanalvarez123/MINE-4101-proyecto-final/blob/main/docs/) 
-
-  Modelos:
+  * TODO Documento: [Entrega No. 2](https://github.com/juanalvarez123/MINE-4101-proyecto-final/blob/main/docs/) 
+  * A continuación se detalla cada uno de los modelos construidos para la entrega:
+  * Modelos:
 
 1. Modelo # 1
       - [Código fuente del notebook](https://github.com/juanalvarez123/MINE-4101-proyecto-final/blob/main/Segunda_Entrega/MODELO_1.ipynb)
@@ -30,6 +27,8 @@ Repositorio del curso de Ciencia de Datos Aplicada MINE-4101 - Proyecto final.
       - [Código fuente del notebook](https://github.com/juanalvarez123/MINE-4101-proyecto-final/blob/main/Segunda_Entrega/MODELO_2.ipynb)
       - Ver en Google Colab: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/juanalvarez123/MINE-4101-proyecto-final/blob/main/Segunda_Entrega/MODELO_2.ipynb)
 3. Modelo # 3 (TODO RAFA)
-
       - [Código fuente del notebook](https://github.com/juanalvarez123/MINE-4101-proyecto-final/blob/main/Segunda_Entrega/MODELO_3.ipynb)
       - Ver en Google Colab: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/juanalvarez123/MINE-4101-proyecto-final/blob/main/Segunda_Entrega/MODELO_3.ipynb)
+3. (Extra) Modelo # 4 (TODO RAFA)
+      - [Código fuente del notebook](https://github.com/juanalvarez123/MINE-4101-proyecto-final/blob/main/Segunda_Entrega/MODELO_4.ipynb)
+      - Ver en Google Colab: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/juanalvarez123/MINE-4101-proyecto-final/blob/main/Segunda_Entrega/MODELO_4.ipynb)
