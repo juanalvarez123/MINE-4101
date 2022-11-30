@@ -36,7 +36,7 @@ Repositorio del curso de Ciencia de Datos Aplicada MINE-4101 - Proyecto final.
       - [Notebook](https://github.com/juanalvarez123/MINE-4101-proyecto-final/blob/main/resources/segunda-entrega/MODELO_2.ipynb)
       - Ver en Google Colab: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/juanalvarez123/MINE-4101-proyecto-final/blob/main/resources/segunda-entrega/MODELO_2.ipynb)
 
-3. Modelo # 3: GridSearch + Árboles de decisión + Random forest **(Modelo seleccionado)**.
+3. Modelo # 3: GridSearch + Árboles de decisión + Random forest
       - [Notebook](https://github.com/juanalvarez123/MINE-4101-proyecto-final/blob/main/resources/segunda-entrega/MODELO_3.ipynb)
       - Ver en Google Colab: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/juanalvarez123/MINE-4101-proyecto-final/blob/main/resources/segunda-entrega/MODELO_3.ipynb)
 
@@ -44,10 +44,10 @@ Repositorio del curso de Ciencia de Datos Aplicada MINE-4101 - Proyecto final.
       - [Notebook](https://github.com/juanalvarez123/MINE-4101-proyecto-final/blob/main/resources/segunda-entrega/MODELO_4.ipynb)
       - Ver en Google Colab: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/juanalvarez123/MINE-4101-proyecto-final/blob/main/resources/segunda-entrega/MODELO_4.ipynb)
 
-5. Anexos: Realizamos algunos ajustes en el storyboard y en el diagrama de contexto de acuerdo al feedback de la entrega # 1.
+5. Anexos: Realizamos algunos ajustes en el storyboard y en el diagrama de contexto de acuerdo al feedback de la entrega No. 1.
       - [Anexos entrega 2](https://github.com/juanalvarez123/MINE-4101-proyecto-final/blob/main/Anexos.md)
 
 **Entrega No. 3:**
   * Documento: [Entrega No. 3](https://github.com/juanalvarez123/MINE-4101-proyecto-final/blob/main/resources/tercera-entrega/Proyecto%20final%20-%20Tercera%20entrega.pdf)
-  * [Notebook con KMEANS](https://github.com/juanalvarez123/MINE-4101-proyecto-final/blob/main/resources/tercera-entrega/MODELO_KMEANS.ipynb)
+  * [Notebook con KMEANS](https://github.com/juanalvarez123/MINE-4101-proyecto-final/blob/main/resources/tercera-entrega/KMEANS.ipynb)
   * [Presentación tercera entrega](https://github.com/juanalvarez123/MINE-4101-proyecto-final/blob/main/resources/tercera-entrega/Presentacion%20tercera%20entrega.pdf)
